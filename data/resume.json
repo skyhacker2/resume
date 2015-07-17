@@ -2,87 +2,42 @@
     "avatar": "/resume/data/1.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "唐杰英",
-        "description": "人生苦短，我用JavaScript",
+        "name": "陈洪晶",
+        "description": "努力成为个人开发者",
         "school": "五邑大学",
-        "profession": "计算机科学与技术",
+        "profession": "软件工程师",
         "sex": "男",
         "education" : "本科",
         "workage": "应届毕业",
-        "phone": "15088132354",
-        "email": "tonjayin@gmail.com"
+        "phone": "13750376797",
+        "email": "skyhacker@126.com"
     },
     "Educations": [
         {
             "name": "五邑大学",
             "name_link": "http://www.wyu.edu.cn/",
-            "title": "本科 · 计算机科学与技术",
+            "title": "本科 · 软件工程",
             "icon": "https://avatars0.githubusercontent.com/u/6442809?v=3&s=200",
             "description": "",
-            "time": "2012-2016",
+            "time": "2010-2014",
             "location": "广东江门"
         }
     ],
     "social":[
         {
             "type": "github",
-            "link": "https://github.com/Jayin",
+            "link": "https://github.com/skyhacker2",
             "icon": ""
         },
         {
             "type": "weibo",
-            "link": "http://weibo.com/tjy273942569",
+            "link": "http://weibo.com/skyhacker",
             "icon": ""
-        },
-        {
-            "type": "linkedin",
-            "link": "https://www.linkedin.com/pub/jayin-ton/100/85a/161",
-            "icon": ""
-        },
-        {
-            "type": "twitter",
-            "link": "https://twitter.com/Jayin_Ton",
-            "icon": "https://cdn1.iconfinder.com/data/icons/new_twitter_icon/491/bird_twitter_new_single.png"
         }
     ],
     "InternExperiences": [
-        {
-            "name": "深圳三分线网络科技有限公司",
-            "name_link": "",
-            "title": "前端开发工程师",
-            "icon": "",
-            "description": "负责微信html5创意广告微信网页开发，参与报喜鸟，淘宝，亚洲环保创新论坛等案例的开发",
-            "time": "2015.04 - 至今",
-            "location": "广东 深圳"
-        },
-        {
-            "name": "深圳百贝斯网络科技有限公司",
-            "name_link": "",
-            "title": "PHP Developer",
-            "icon": "",
-            "description": "基于OpenCart开源商城系统开发外贸商城",
-            "time": "2014.07 - 2014.08",
-            "location": "广东 江门"
-        }
     ],
     "ProjectExperience": [
-        {
-            "name": "silentor",
-            "name_link": "https://github.com/Jayin/silentor",
-            "title": "Developer",
-            "icon": "https://github.com/Jayin/silentor/raw/gh-pages/img/favicon.ico",
-            "description": "纯前端，基于markdown的博客",
-            "time": "2014.10 - 至今",
-            "location": ""
-        },
-        {
-            "name": "resume",
-            "name_link": "https://github.com/Jayin/silentor",
-            "title": "Developer",
-            "icon": "/resume/data/icon.png",
-            "description": "1分钟构建个人的在线简历 build on React",
-            "time": "2015.07 - 至今",
-            "location": ""
-        }
+
     ]
 }
